@@ -1,2 +1,2 @@
-# PACS-EX
-This is the DASA design review of the Hospital Picture Archiving and Communication System (PACS), our illustrative read/write example, an image-archival service cluster that writes medical images to persistent storage for a 500+ bed regional hospital, which we prototype and measure directly.
+# MINITICKET-EX
+This is the DASA design review of MiniTicket, our illustrative microservice scaling example, a dimensionally-scaled prototype of the TrainTicket benchmark system that preserves its three-layer booking workflow across five services, which we instrument and measure directly to validate the Architectural Principle of Similitude across a 10:1 structural scale reduction.
